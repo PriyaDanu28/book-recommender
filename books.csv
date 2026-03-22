@@ -1,0 +1,31 @@
+title,author,genre,rating,image,description
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,4.9,https://covers.openlibrary.org/b/id/7984916-L.jpg,A magical journey of a young wizard
+The Hobbit,J.R.R. Tolkien,Fantasy,4.8,https://covers.openlibrary.org/b/id/6979861-L.jpg,An adventurous quest in Middle-earth
+The Name of the Wind,Patrick Rothfuss,Fantasy,4.7,https://covers.openlibrary.org/b/id/8231993-L.jpg,A tale of a gifted young magician
+Mistborn,Brandon Sanderson,Fantasy,4.8,https://covers.openlibrary.org/b/id/8235084-L.jpg,A heist story in a magical world
+Dune,Frank Herbert,Sci-Fi,4.7,https://covers.openlibrary.org/b/id/8106661-L.jpg,A sci-fi epic on desert planet Arrakis
+Ender's Game,Orson Scott Card,Sci-Fi,4.6,https://covers.openlibrary.org/b/id/8228691-L.jpg,A young genius trained for space war
+Foundation,Isaac Asimov,Sci-Fi,4.7,https://covers.openlibrary.org/b/id/8231852-L.jpg,A saga of the fall of a galactic empire
+Brave New World,Aldous Huxley,Sci-Fi,4.7,https://covers.openlibrary.org/b/id/8776041-L.jpg,A futuristic controlled society
+Pride and Prejudice,Jane Austen,Romance,4.8,https://covers.openlibrary.org/b/id/8091016-L.jpg,A classic love story
+Me Before You,Jojo Moyes,Romance,4.5,https://covers.openlibrary.org/b/id/8225265-L.jpg,A touching modern romance
+The Fault in Our Stars,John Green,Romance,4.6,https://covers.openlibrary.org/b/id/8235116-L.jpg,A love story of two teenagers
+It Ends With Us,Colleen Hoover,Romance,4.6,https://covers.openlibrary.org/b/id/10523338-L.jpg,A powerful emotional romance
+The Alchemist,Paulo Coelho,Fiction,4.7,https://covers.openlibrary.org/b/id/8101342-L.jpg,A journey of self-discovery
+To Kill a Mockingbird,Harper Lee,Fiction,4.9,https://covers.openlibrary.org/b/id/8228696-L.jpg,A powerful story about justice
+1984,George Orwell,Fiction,4.9,https://covers.openlibrary.org/b/id/7222246-L.jpg,A dystopian future society
+The Great Gatsby,F. Scott Fitzgerald,Fiction,4.5,https://covers.openlibrary.org/b/id/7352161-L.jpg,A tragic story of wealth and love
+Atomic Habits,James Clear,Self-Help,4.8,https://covers.openlibrary.org/b/id/8469256-L.jpg,Build good habits and break bad ones
+The Power of Now,Eckhart Tolle,Self-Help,4.6,https://covers.openlibrary.org/b/id/240726-L.jpg,A guide to spiritual enlightenment
+Ikigai,Héctor García,Self-Help,4.7,https://covers.openlibrary.org/b/id/8776047-L.jpg,Discover your purpose in life
+Deep Work,Cal Newport,Self-Help,4.7,https://covers.openlibrary.org/b/id/8167896-L.jpg,Focus and productivity mastery
+Rich Dad Poor Dad,Robert Kiyosaki,Finance,4.7,https://covers.openlibrary.org/b/id/7222246-L.jpg,Lessons on financial independence
+The Intelligent Investor,Benjamin Graham,Finance,4.8,https://covers.openlibrary.org/b/id/8231996-L.jpg,Classic book on investing
+Think and Grow Rich,Napoleon Hill,Finance,4.6,https://covers.openlibrary.org/b/id/8231856-L.jpg,Success principles and mindset
+The Psychology of Money,Morgan Housel,Finance,4.8,https://covers.openlibrary.org/b/id/10594755-L.jpg,Understanding money behavior
+Sapiens,Yuval Noah Harari,Self-Help,4.8,https://covers.openlibrary.org/b/id/8370226-L.jpg,A brief history of humankind
+Homo Deus,Yuval Noah Harari,Self-Help,4.7,https://covers.openlibrary.org/b/id/8370227-L.jpg,A look into the future of humanity
+The Subtle Art of Not Giving a F*ck,Mark Manson,Self-Help,4.6,https://covers.openlibrary.org/b/id/8235111-L.jpg,A counterintuitive approach to living
+Zero to One,Peter Thiel,Finance,4.6,https://covers.openlibrary.org/b/id/8232000-L.jpg,Startup and innovation insights
+Start With Why,Simon Sinek,Self-Help,4.7,https://covers.openlibrary.org/b/id/8232005-L.jpg,Leadership and purpose
+The Lean Startup,Eric Ries,Finance,4.7,https://covers.openlibrary.org/b/id/8232010-L.jpg,Building startups efficiently
